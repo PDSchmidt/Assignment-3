@@ -1,0 +1,19 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "TCSS 460 Assignment 3",
+  "main": ": app.js",
+  "scripts": {
+    "test": "build",
+    "build": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Paul Schmidt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
